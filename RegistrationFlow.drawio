@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T11:55:31.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Oeh4yExn69joiK-m3VNk" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T11:59:34.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="V5VsGWVQA0C77INXd7er" version="24.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1221" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,8 +88,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oBQzXh0Td7YlNYfZjHLZ-23" value="Check the Username" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oBQzXh0Td7YlNYfZjHLZ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oBQzXh0Td7YlNYfZjHLZ-23" target="oBQzXh0Td7YlNYfZjHLZ-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="oBQzXh0Td7YlNYfZjHLZ-23" value="Save data into DB" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="520" y="660" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="oBQzXh0Td7YlNYfZjHLZ-26" value="End" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="374" y="750" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
