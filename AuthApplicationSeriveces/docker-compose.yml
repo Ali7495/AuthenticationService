@@ -1,0 +1,14 @@
+version: '3.4'
+
+services:
+  usermanagerapi:
+    image: ${DOCKER_REGISTRY-}usermanagerapi
+    build:
+      context: .
+      dockerfile: UserManagerApi/UserManagerApi/Dockerfile
+
+  usermanagerdb:
+    image: postgres
+
+volumes:
+  postgres_data:

@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Workshop\\Practices\\AuthServices\\AuthApplicationSeriveces\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FA2DD6-A552-4947-9267-C31867C2EE18}|UserManagerApi\\UserManagerApi\\UserManagerApi.csproj|d:\\workshop\\practices\\authservices\\authapplicationseriveces\\usermanagerapi\\usermanagerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A4FA2DD6-A552-4947-9267-C31867C2EE18}|UserManagerApi\\UserManagerApi\\UserManagerApi.csproj|solutionrelative:usermanagerapi\\usermanagerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9083116C-BBFC-4B62-8307-7BFF32D30DC4}|docker-compose.dcproj|d:\\workshop\\practices\\authservices\\authapplicationseriveces\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9083116C-BBFC-4B62-8307-7BFF32D30DC4}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9083116C-BBFC-4B62-8307-7BFF32D30DC4}|docker-compose.dcproj|d:\\workshop\\practices\\authservices\\authapplicationseriveces\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9083116C-BBFC-4B62-8307-7BFF32D30DC4}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Workshop\\Practices\\AuthServices\\AuthApplicationSeriveces\\UserManagerApi\\UserManagerApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UserManagerApi\\UserManagerApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Workshop\\Practices\\AuthServices\\AuthApplicationSeriveces\\UserManagerApi\\UserManagerApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UserManagerApi\\UserManagerApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-15T17:19:58.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "docker-compose.override.yml",
+              "DocumentMoniker": "D:\\Workshop\\Practices\\AuthServices\\AuthApplicationSeriveces\\docker-compose.override.yml",
+              "RelativeDocumentMoniker": "docker-compose.override.yml",
+              "ToolTip": "D:\\Workshop\\Practices\\AuthServices\\AuthApplicationSeriveces\\docker-compose.override.yml",
+              "RelativeToolTip": "docker-compose.override.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-15T17:16:58.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\Workshop\\Practices\\AuthServices\\AuthApplicationSeriveces\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\Workshop\\Practices\\AuthServices\\AuthApplicationSeriveces\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-15T17:16:41.514Z",
+              "EditorCaption": ""
             }
           ]
         }

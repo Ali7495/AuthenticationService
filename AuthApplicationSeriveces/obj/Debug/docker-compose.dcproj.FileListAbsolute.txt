@@ -1,0 +1,14 @@
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\UserManagerApi.deps.json
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\UserManagerApi.runtimeconfig.json
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\appsettings.Development.json
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\appsettings.json
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\UserManagerApi.exe
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\UserManagerApi.dll
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\Microsoft.OpenApi.dll
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\UserManagerApi.pdb
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\obj\Debug\docker-c.35A3FFBA.Up2Date

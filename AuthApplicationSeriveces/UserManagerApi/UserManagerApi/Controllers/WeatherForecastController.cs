@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace AuthApi.Controllers
+namespace UserManagerApi.Controllers
 {
     [ApiController]
     [Route("[controller]")]

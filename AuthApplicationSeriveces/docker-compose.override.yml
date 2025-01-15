@@ -1,0 +1,22 @@
+version: '3.4'
+
+services:
+  
+  usermanagerapi:
+    container_name: usermanagerapi
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "8001:8080"
+
+  usermanagerdb:
+    container_name: usermanagerdb
+    environment: 
+     - POSTGRES_USER=admin
+     - POSTGRES_PASSWORD=aliDB2025
+     - POSTGRES_DB=usermanagerDb
+    restart: always
+    ports:
+     - "5432:5432"
+    volumes:
+     - postgres_data:/var/lib/postgresql/data
