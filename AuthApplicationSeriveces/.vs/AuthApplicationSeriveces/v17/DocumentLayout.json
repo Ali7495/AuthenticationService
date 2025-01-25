@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Workshop\\Practices\\AuthServices\\AuthApplicationSeriveces\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4FA2DD6-A552-4947-9267-C31867C2EE18}|UserManagerApi\\UserManagerApi\\UserManagerApi.csproj|d:\\workshop\\practices\\authservices\\authapplicationseriveces\\usermanagerapi\\usermanagerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A4FA2DD6-A552-4947-9267-C31867C2EE18}|UserManagerApi\\UserManagerApi\\UserManagerApi.csproj|solutionrelative:usermanagerapi\\usermanagerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A4FA2DD6-A552-4947-9267-C31867C2EE18}|UserManagerApi\\UserManagerApi\\UserManagerApi.csproj|d:\\workshop\\practices\\authservices\\authapplicationseriveces\\usermanagerapi\\usermanagerapi\\infrastructure\\migrations\\create_person_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FA2DD6-A552-4947-9267-C31867C2EE18}|UserManagerApi\\UserManagerApi\\UserManagerApi.csproj|solutionrelative:usermanagerapi\\usermanagerapi\\infrastructure\\migrations\\create_person_table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9083116C-BBFC-4B62-8307-7BFF32D30DC4}|docker-compose.dcproj|d:\\workshop\\practices\\authservices\\authapplicationseriveces\\docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9083116C-BBFC-4B62-8307-7BFF32D30DC4}|docker-compose.dcproj|solutionrelative:docker-compose.override.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9083116C-BBFC-4B62-8307-7BFF32D30DC4}|docker-compose.dcproj|d:\\workshop\\practices\\authservices\\authapplicationseriveces\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9083116C-BBFC-4B62-8307-7BFF32D30DC4}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A4FA2DD6-A552-4947-9267-C31867C2EE18}|UserManagerApi\\UserManagerApi\\UserManagerApi.csproj|d:\\workshop\\practices\\authservices\\authapplicationseriveces\\usermanagerapi\\usermanagerapi\\infrastructure\\persistence\\usermanagerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FA2DD6-A552-4947-9267-C31867C2EE18}|UserManagerApi\\UserManagerApi\\UserManagerApi.csproj|solutionrelative:usermanagerapi\\usermanagerapi\\infrastructure\\persistence\\usermanagerdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,40 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Workshop\\Practices\\AuthServices\\AuthApplicationSeriveces\\UserManagerApi\\UserManagerApi\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "UserManagerApi\\UserManagerApi\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Workshop\\Practices\\AuthServices\\AuthApplicationSeriveces\\UserManagerApi\\UserManagerApi\\Properties\\launchSettings.json",
-              "RelativeToolTip": "UserManagerApi\\UserManagerApi\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-15T17:19:58.018Z",
+              "Title": "Create_Person_Table.cs",
+              "DocumentMoniker": "D:\\Workshop\\Practices\\AuthServices\\AuthApplicationSeriveces\\UserManagerApi\\UserManagerApi\\Infrastructure\\Migrations\\Create_Person_Table.cs",
+              "RelativeDocumentMoniker": "UserManagerApi\\UserManagerApi\\Infrastructure\\Migrations\\Create_Person_Table.cs",
+              "ToolTip": "D:\\Workshop\\Practices\\AuthServices\\AuthApplicationSeriveces\\UserManagerApi\\UserManagerApi\\Infrastructure\\Migrations\\Create_Person_Table.cs",
+              "RelativeToolTip": "UserManagerApi\\UserManagerApi\\Infrastructure\\Migrations\\Create_Person_Table.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:59:41.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "docker-compose.override.yml",
-              "DocumentMoniker": "D:\\Workshop\\Practices\\AuthServices\\AuthApplicationSeriveces\\docker-compose.override.yml",
-              "RelativeDocumentMoniker": "docker-compose.override.yml",
-              "ToolTip": "D:\\Workshop\\Practices\\AuthServices\\AuthApplicationSeriveces\\docker-compose.override.yml",
-              "RelativeToolTip": "docker-compose.override.yml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-01-15T17:16:58.602Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "D:\\Workshop\\Practices\\AuthServices\\AuthApplicationSeriveces\\docker-compose.yml",
-              "RelativeDocumentMoniker": "docker-compose.yml",
-              "ToolTip": "D:\\Workshop\\Practices\\AuthServices\\AuthApplicationSeriveces\\docker-compose.yml",
-              "RelativeToolTip": "docker-compose.yml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-01-15T17:16:41.514Z",
+              "Title": "UserManagerDbContext.cs",
+              "DocumentMoniker": "D:\\Workshop\\Practices\\AuthServices\\AuthApplicationSeriveces\\UserManagerApi\\UserManagerApi\\Infrastructure\\Persistence\\UserManagerDbContext.cs",
+              "RelativeDocumentMoniker": "UserManagerApi\\UserManagerApi\\Infrastructure\\Persistence\\UserManagerDbContext.cs",
+              "ToolTip": "D:\\Workshop\\Practices\\AuthServices\\AuthApplicationSeriveces\\UserManagerApi\\UserManagerApi\\Infrastructure\\Persistence\\UserManagerDbContext.cs",
+              "RelativeToolTip": "UserManagerApi\\UserManagerApi\\Infrastructure\\Persistence\\UserManagerDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T20:49:46.826Z",
               "EditorCaption": ""
             }
           ]

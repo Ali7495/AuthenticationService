@@ -10,5 +10,9 @@ services:
   usermanagerdb:
     image: postgres
 
+  pgadmin:
+    image: dpage/pgadmin4
+
 volumes:
   postgres_data:
+  pgadmin_data:  

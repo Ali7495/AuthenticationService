@@ -12,11 +12,22 @@ services:
   usermanagerdb:
     container_name: usermanagerdb
     environment: 
-     - POSTGRES_USER=admin
-     - POSTGRES_PASSWORD=aliDB2025
-     - POSTGRES_DB=usermanagerDb
+      - POSTGRES_USER=admin
+      - POSTGRES_PASSWORD=aliDB2025
+      - POSTGRES_DB=usermanagerDb
     restart: always
     ports:
-     - "5432:5432"
+      - "5432:5432"
     volumes:
-     - postgres_data:/var/lib/postgresql/data
+      - postgres_data:/var/lib/postgresql/data
+
+  pgadmin:
+    container_name: pgadmin
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=admin@aspnetrun.com
+      - PGADMIN_DEFAULT_PASSWORD=admin1234
+    restart: always
+    ports:
+      - "5050:80"
+    volumes:
+      - pgadmin_data:/root/.pgadmin
