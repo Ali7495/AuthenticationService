@@ -12,3 +12,11 @@ D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\UserManage
 D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\obj\Debug\docker-c.35A3FFBA.Up2Date
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\FluentMigrator.Runner.Core.dll
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\FluentMigrator.Abstractions.dll
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\FluentMigrator.dll
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\FluentMigrator.Extensions.Postgres.dll
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\FluentMigrator.Runner.Postgres.dll
+D:\Workshop\Practices\AuthServices\AuthApplicationSeriveces\bin\Debug\de-DE\FluentMigrator.Abstractions.resources.dll

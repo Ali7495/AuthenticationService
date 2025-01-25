@@ -4,8 +4,11 @@ services:
   
   usermanagerapi:
     container_name: usermanagerapi
+    depends_on:
+      - usermanagerdb
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__UserManagerDb=Host=usermanagerdb;Port=5432;Database=UserManagerDb;Username=admin;Password=aliDB2025
     ports:
       - "8001:8080"
 

@@ -24,7 +24,7 @@
     <Folder Include="Domain\" />
     <Folder Include="Application\" />
     <Folder Include="Infrastructure\Dapper\" />
-    <Folder Include="IoC\" />
+    <Folder Include="Infrastructure\Persistence\" />
     <Folder Include="Test\" />
   </ItemGroup>
 
